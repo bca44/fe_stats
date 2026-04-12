@@ -1,0 +1,113 @@
+,Name,HP,Str,Mag,Dex,Spd,Lck,Def,Res,Cha
+0,,,,,,,,,,
+0,Noble,,,,,,,,,5
+1,Commoner,,,,,,,,,
+2,Dancer,20,-5,,,,,-5,-5,10
+3,(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class)
+4,(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes)
+0,Myrmidon,10,,,,5.0,,,-5,5
+1,Soldier,10,,,5.0,,,,-5,5
+2,Fighter,10,5.0,,,,,,-5,5
+3,Monk,5,,,,,,,5,5
+0,Lord,20,,,10.0,,,,,10.0
+1,Mercenary,20,5.0,,,5.0,,,-5.0,5.0
+2,Thief,20,,,10.0,10.0,,,,5.0
+3,Armored Knight,20,,,,-10.0,,10.0,-5.0,5.0
+4,Cavalier,20,5.0,,5.0,-10.0,,5.0,,5.0
+5,Brigand,30,10.0,,,,,,-5.0,5.0
+6,Archer,5,,,10.0,,5.0,,,5.0
+7,Brawler,30,,-10.0,10.0,10.0,,,-10.0,5.0
+8,Mage,5,-5.0,10.0,5.0,,,-5.0,5.0,5.0
+9,Dark Mage,5,-5.0,10.0,5.0,,,-5.0,5.0,
+10,Priest,5,-5.0,5.0,5.0,,,-5.0,10.0,10.0
+11,Pegasus Knight,15,,,,10.0,,,5.0,10.0
+0,Hero,30,10.0,,,10.0,,,-5.0,5.0
+1,Swordmaster,25,10.0,,,20.0,,,-5.0,5.0
+2,Assassin,20,,,20.0,20.0,,,,
+3,Fortress Knight,30,10.0,,,-10.0,,15.0,,5.0
+4,Paladin,30,10.0,,5.0,-10.0,5.0,5.0,5.0,5.0
+5,Wyvern Rider,30,10.0,-5.0,,,,5.0,-5.0,5.0
+6,Warrior,40,15.0,-5.0,,,,,,5.0
+7,Sniper,10,5.0,,20.0,,10.0,,,5.0
+8,Grappler,40,10.0,,10.0,10.0,,,,5.0
+9,Warlock,10,,10.0,,,,-5.0,5.0,5.0
+10,Dark Bishop,10,,10.0,,,,-5.0,5.0,
+11,Bishop,10,,10.0,,,10.0,-5.0,5.0,10.0
+0,Falcon Knight,30,10.0,,,20.0,,,5.0,10
+1,Wyvern Lord,30,15.0,-5.0,,10.0,,5.0,,5
+2,Mortal Savant,20,10.0,10.0,,-10.0,10.0,,,5
+3,Great Knight,30,10.0,,,-10.0,,5.0,-5.0,5
+4,Bow Knight,10,,,,-5.0,,,,5
+5,Dark Knight,10,5.0,10.0,,-5.0,,5.0,10.0,5
+6,Holy Knight,10,,10.0,,-5.0,10.0,5.0,10.0,10
+7,War Master,40,15.0,,,10.0,,,,5
+8,Gremory,10,,10.0,10.0,,,,5.0,10
+0,Trickster,20,,,15.0,20.0,10.0,,5,
+1,War Monk/Cleric,40,10.0,5.0,10.0,,,,5,5.0
+2,Dark Flier,20,,,,10.0,,,10,10.0
+3,Valkyrie,5,,5.0,,-5.0,5.0,5.0,10,10.0
+4,Death Knight,30,10.0,10.0,,-5.0,,5.0,5,
+0,Archbishop,40,10.0,10,,,,,10,10.0
+1,Death Knight,20,,10,,-5.0,,,5,
+2,Flame Emperor,30,10.0,10,,,,5.0,5,10.0
+3,Agastya,30,,10,,,,,10,10.0
+4,Saint,40,10.0,10,,,,,10,10.0
+5,Verrat,10,,10,,,,-5.0,5,5.0
+0,Noble,,,,,,,,,5
+1,Commoner,,,,,,,,,
+2,Dancer,20,-5,,,,,-5,-5,10
+3,(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class),(Protagonist’s final class)
+4,(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes),(House leaders’ Part 2 classes)
+0,Myrmidon,10,,,,10.0,,,-10,5
+1,Soldier,10,,,10.0,,,,-10,5
+2,Fighter,10,10.0,,,,,,-10,5
+3,Monk,10,,,,,,,20,5
+0,Lord,20,15,,10.0,,,10.0,,10.0
+1,Lord (Judith),30,10,,10.0,10.0,,20.0,,10.0
+2,Mercenary,20,15,,,10.0,,10.0,-10.0,5.0
+3,Thief,20,15,,10.0,15.0,,10.0,,5.0
+4,Armored Knight,20,15,,,-30.0,,40.0,-20.0,5.0
+5,Cavalier,20,20,,,,,15.0,,5.0
+6,Brigand,30,25,,,,,10.0,-10.0,5.0
+7,Archer,10,15,,10.0,,10.0,,,5.0
+8,Brawler,30,15,-10.0,10.0,20.0,,10.0,-10.0,5.0
+9,Mage,10,-5,10.0,,,,-10.0,35.0,5.0
+10,Dark Mage,10,-5,10.0,,,,-10.0,35.0,
+11,Priest,10,-5,5.0,,,10.0,-10.0,35.0,10.0
+12,Pegasus Knight,30,15,,,10.0,,25.0,25.0,10.0
+0,Hero,50,22.0,,5.0,15.0,,30,-5.0,5.0
+1,Swordmaster,40,20.0,,10.0,30.0,,25,-5.0,5.0
+2,Assassin,30,18.0,,20.0,30.0,,25,,
+3,Fortress Knight,50,20.0,,,-30.0,,60,-20.0,5.0
+4,Fortress Knight (Chapter 5 Gilbert),30,20.0,,,-30.0,,50,-20.0,
+5,Paladin,40,15.0,,5.0,,5.0,40,10.0,5.0
+6,Paladin (Prologue Jeralt),30,5.0,,5.0,5.0,5.0,10,10.0,
+7,Pegasus Knight (enemy only),30,15.0,,,10.0,,25,25.0,10.0
+8,Wyvern Rider,40,25.0,-5.0,,,,35,-10.0,5.0
+9,Warrior,50,30.0,,,,,25,,5.0
+10,Sniper,30,15.0,,30.0,,,20,,5.0
+11,Grappler,50,18.0,,,,,25,,5.0
+12,Warlock,30,,10.0,,,,-5,50.0,5.0
+13,Dark Bishop,30,,10.0,,,,-5,50.0,
+14,Bishop,30,,10.0,,,10.0,-5,50.0,10.0
+0,Falcon Knight,40,23.0,,,20.0,,35,35.0,10
+1,Wyvern Lord,40,28.0,-5.0,,10.0,,50,,5
+2,Mortal Savant,40,20.0,10.0,,-10.0,20.0,20,35.0,5
+3,Great Knight,50,22.0,,,-20.0,,55,-10.0,5
+4,Bow Knight,40,15.0,,10.0,-5.0,,25,5.0,5
+5,Dark Knight,40,15.0,10.0,,,,20,45.0,5
+6,Holy Knight,35,,20.0,,,10.0,5,50.0,10
+7,War Master,60,32.0,,,20.0,,35,,5
+8,Gremory,30,,35.0,20.0,,,5,55.0,10
+0,Trickster,30,18.0,,15.0,28.0,10.0,25,10,
+1,War Monk/Cleric,50,18.0,,,,,25,15,5.0
+2,Dark Flier,30,15.0,,,10.0,,25,25,10.0
+3,Valkyrie,20,,15.0,,,10.0,5,55,15.0
+4,Death Knight,20,25.0,10.0,,10.0,,15,5,
+0,Archbishop,40,10.0,10.0,,,,,10,10.0
+1,Death Knight,20,25.0,10.0,,10.0,,15.0,5,
+2,Flame Emperor,30,10.0,10.0,,,,5.0,5,10.0
+3,Agastya,30,10.0,10.0,,,,,10,10.0
+4,King of Liberation,60,10.0,,10.0,10.0,,30.0,30,10.0
+5,Saint,40,20.0,10.0,,,,20.0,10,10.0
+6,Verrat,50,,10.0,,,,50.0,50,5.0
