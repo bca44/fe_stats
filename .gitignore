@@ -1,0 +1,12 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+.vs/
+Generated\ Files/
+.history/
+*.vsix
