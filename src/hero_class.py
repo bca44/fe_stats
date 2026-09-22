@@ -45,21 +45,8 @@ class Hero:
     def __repr__(self):
         return f'{self.name} (lvl {self.current_lvl} {self.current_class})'
 
-    def can_promote_to(self, proposed_promotion):  ### TODO NEEDS TESTING
-        ### current_hero = Hero('Lyn', Lord, ...)
-        ### current_hero.can_promote_to('Knight (F)') ### False
-        pass
-
-    def lvl_up(self):
-        pass
-    ### use rand to sim level up -> increase stats
-
-    def change_class(self, proposed_promotion: UnitClass):
-        if self.can_promote_to(proposed_promotion):
-            self.current_class = proposed_promotion
-            ### add promotion gains
-
 ### TODO - add lvl_up & change_class methods
+    ### change_class will need can_promote_to check live first
 ### lvl_up - (unit_growths + class_growths)/100 prob -> relevant_stat ++
 ### change_class - relevant_stat += promotional_gains
 

@@ -1,21 +1,21 @@
 import pandas as pd
 
 # READ IN data
-binding_base = pd.read_csv('binding_base.csv').drop(columns=['Affin', 'Weapon ranks'])
-binding_unit_growths = pd.read_csv('binding_unit_growths.csv')
-binding_class_growths = pd.read_csv('binding_class_growths.csv')
-binding_promotion_gains = pd.read_csv('binding_promotion_gains.csv')
+binding_base = pd.read_csv('data/unit_base/binding_base.csv').drop(columns=['Affin', 'Weapon ranks'])
+binding_unit_growths = pd.read_csv('data/unit_growths/binding_unit_growths.csv')
+binding_class_growths = pd.read_csv('data/class_growths/binding_class_growths.csv')
+binding_promotion_gains = pd.read_csv('data/promotion_gains/binding_promotion_gains.csv')
 
-blazing_base = pd.read_csv('blazing_base.csv').drop(columns=['Affin', 'Weapon ranks'])
-blazing_unit_growths = pd.read_csv('blazing_unit_growths.csv')
-blazing_class_growths = pd.read_csv('blazing_class_growths.csv')
+blazing_base = pd.read_csv('data/unit_base/blazing_base.csv').drop(columns=['Affin', 'Weapon ranks'])
+blazing_unit_growths = pd.read_csv('data/unit_growths/blazing_unit_growths.csv')
+blazing_class_growths = pd.read_csv('data/class_growths/blazing_class_growths.csv')
 blazing_class_growths.rename(columns={'Name': 'Class'}, inplace=True)
-blazing_promotion_gains = pd.read_csv('blazing_promotion_gains.csv')
+blazing_promotion_gains = pd.read_csv('data/promotion_gains/blazing_promotion_gains.csv')
 
-sacred_base = pd.read_csv('sacred_base.csv').drop(columns=['Affin', 'Weapon Rank'])
-sacred_unit_growths = pd.read_csv('sacred_unit_growths.csv')
-sacred_class_growths = pd.read_csv('sacred_class_growths.csv')
-sacred_promotion_gains = pd.read_csv('sacred_promotion_gains.csv')
+sacred_base = pd.read_csv('data/unit_base/sacred_base.csv').drop(columns=['Affin', 'Weapon Rank'])
+sacred_unit_growths = pd.read_csv('data/unit_growths/sacred_unit_growths.csv')
+sacred_class_growths = pd.read_csv('data/class_growths/sacred_class_growths.csv')
+sacred_promotion_gains = pd.read_csv('data/promotion_gains/sacred_promotion_gains.csv')
 
 # DROP unneeded cols & header rows
 for df in [binding_base, binding_unit_growths,

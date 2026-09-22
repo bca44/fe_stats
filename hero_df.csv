@@ -1,0 +1,142 @@
+,name,base_class,base_lvl,base_hp,base_s_or_m,base_skl,base_spd,base_lck,base_def,base_res,base_con,base_mov,game,hp_growth,s_or_m_growth,skl_growth,spd_growth,lck_growth,def_growth,res_growth,total_base,total_growths
+0,Roy,Lord,1,18,5,5,7,7,5,0,6,5,binding blade,80,40,50,40,60,25,30,53,325
+1,Marcus,Paladin,1,32,9,14,11,10,9,8,11,8,binding blade,60,25,20,25,20,15,20,104,185
+2,Allen,Cavalier,1,21,7,4,6,3,6,0,9,7,binding blade,85,45,40,45,40,25,10,56,290
+3,Lance,Cavalier,1,20,5,6,8,2,6,0,9,7,binding blade,80,40,45,50,35,20,15,56,285
+4,Wolt,Archer,1,18,4,4,5,2,4,0,7,5,binding blade,80,40,50,40,40,20,10,44,280
+5,Bors,Knight,1,20,7,4,3,4,11,0,14,4,binding blade,90,30,30,40,50,35,10,63,285
+6,Merlinus,Transporter,1,15,0,3,3,10,3,0,25,5,binding blade,100,0,50,50,100,20,5,59,325
+7,Ellen,Priest,2,16,1,6,8,8,0,6,4,5,binding blade,45,50,30,20,70,5,60,49,280
+8,Dieck,Mercenary,5,26,9,12,10,5,6,1,13,5,binding blade,90,40,40,30,35,20,15,82,270
+9,Wade,Fighter,2,28,8,3,5,4,3,0,13,5,binding blade,75,50,45,20,45,30,5,64,270
+10,Lott,Fighter,3,29,7,6,7,2,4,1,12,5,binding blade,80,30,30,35,30,40,15,68,260
+11,Thany,Pegasus Knight,1,17,4,6,12,5,6,5,4,7,binding blade,45,30,55,60,60,10,25,59,285
+12,Chad,Thief,1,16,3,3,10,4,2,0,5,6,binding blade,85,50,50,80,60,25,15,43,365
+13,Lugh,Mage,1,16,4,5,6,5,3,5,4,5,binding blade,50,40,50,50,35,15,30,48,270
+14,Clarine,Troubadour,1,15,2,5,9,8,2,5,5,7,binding blade,40,30,40,50,65,10,40,51,275
+15,Rutger,Myrmidon,4,22,7,12,13,2,5,0,7,5,binding blade,80,30,60,50,30,20,20,68,290
+16,Saul,Priest,5,20,4,6,10,2,2,5,6,5,binding blade,60,40,45,45,15,15,50,55,270
+17,Dorothy,Archer,3,19,5,6,6,3,4,2,7,5,binding blade,85,50,45,45,35,15,15,52,290
+18,Sue,Nomad,1,18,5,7,8,4,5,0,5,7,binding blade,55,30,55,65,50,10,15,52,280
+19,Zealot,Paladin,1,35,10,12,13,5,11,7,11,8,binding blade,75,25,20,20,15,30,15,104,200
+20,Treck,Cavalier,4,25,8,6,7,5,8,0,9,7,binding blade,85,40,30,35,50,30,5,68,275
+21,Noah,Cavalier,7,27,8,7,9,6,7,1,10,7,binding blade,75,30,45,30,40,30,10,75,260
+22,Astohl,Thief,10,25,7,8,15,11,7,3,8,6,binding blade,90,35,40,50,15,20,20,84,270
+23,Lilina,Mage,1,16,5,5,4,4,2,7,4,5,binding blade,45,75,20,35,50,10,35,47,270
+24,Wendy,Knight,1,19,4,3,3,6,8,1,10,4,binding blade,85,40,40,40,45,30,10,54,290
+25,Barth,Knight,9,25,10,6,5,2,14,1,16,4,binding blade,100,60,25,20,20,40,2,79,267
+26,Oujay,Mercenary,3,24,7,10,9,6,4,0,8,5,binding blade,85,40,30,45,55,20,15,68,290
+27,Fir,Myrmidon,1,19,6,9,10,3,3,1,5,5,binding blade,75,25,50,55,50,15,20,56,290
+28,Shin,Nomad,5,24,7,8,10,6,7,0,7,7,binding blade,75,45,50,50,25,10,15,69,270
+29,Gonzales,Bandit,5,36,12,5,9,5,6,0,15,5,binding blade,90,60,15,50,35,25,5,88,280
+30,Geese,Pirate,10,33,10,9,9,9,8,0,11,5,binding blade,85,50,30,40,40,20,10,89,275
+31,Klein,Sniper,1,27,13,13,11,10,8,6,7,6,binding blade,60,35,40,45,50,15,25,95,270
+32,Tate,Pegasus Knight,8,22,6,8,11,3,7,6,5,7,binding blade,60,40,45,55,40,15,20,68,275
+33,Lalum,Dancer,1,14,1,2,11,9,2,4,4,5,binding blade,70,10,5,70,80,20,30,47,285
+34,Echidna,Hero,1,35,13,19,18,6,8,7,9,6,binding blade,75,30,25,30,20,15,15,115,210
+35,Elphin,Bard,1,15,1,3,10,11,4,1,6,5,binding blade,80,5,5,65,65,25,55,51,300
+36,Bartre,Warrior,2,48,22,11,10,14,10,3,14,6,binding blade,70,40,20,30,20,20,5,132,205
+37,Ray,Shaman,12,23,12,9,9,6,5,10,4,5,binding blade,55,45,55,40,15,15,35,78,260
+38,Cath,Thief,5,16,3,7,11,8,2,1,5,6,binding blade,80,40,45,85,50,15,20,53,335
+39,Miredy,Wyvern Rider,10,30,12,11,10,5,13,3,9,7,binding blade,75,50,50,45,25,20,5,93,270
+40,Percival,Paladin,5,43,17,13,18,12,14,11,12,8,binding blade,75,30,25,35,20,20,10,140,215
+41,Cecilia,Valkyria,1,30,11,7,10,10,7,13,6,8,binding blade,60,35,45,25,25,20,25,94,235
+42,Sofiya,Shaman,1,15,6,2,4,3,1,8,3,5,binding blade,60,55,40,30,20,20,55,42,280
+43,Igrene,Sniper,1,32,16,18,15,9,11,10,7,6,binding blade,70,35,25,35,20,10,5,118,200
+44,Garret,Berserker,1,49,17,13,10,12,9,4,13,6,binding blade,70,45,25,25,15,15,5,127,200
+45,Fa,Mamkute,1,16,2,2,3,7,2,6,1,5,binding blade,130,90,85,65,150,30,50,39,600
+46,Hugh,Mage,15,26,13,11,12,10,9,9,7,5,binding blade,75,30,30,45,25,20,15,97,240
+47,Zeis,Wyvern Rider,7,28,14,9,8,6,12,2,10,7,binding blade,80,60,50,35,20,25,5,89,275
+48,Douglas,General,8,46,19,13,8,11,20,5,17,5,binding blade,60,30,30,30,20,30,5,139,205
+49,Niime,Druid,18,25,21,20,16,15,5,18,4,6,binding blade,25,15,15,15,5,15,20,124,110
+50,Dayan,Nomadic Trooper,12,43,14,16,20,12,10,12,9,8,binding blade,55,20,20,15,20,10,10,136,150
+51,Juno,Falcon Knight,9,33,11,14,16,14,8,12,7,8,binding blade,50,20,35,30,45,10,10,115,200
+52,Yodel,Bishop,20,35,19,18,14,11,5,30,6,6,binding blade,20,30,15,10,20,10,20,138,125
+53,Karel,Swordmaster,19,44,20,28,23,18,15,13,9,6,binding blade,210,130,140,140,120,110,100,170,950
+54,Lyn,Lord,1,16,4,7,9,5,2,0,5,5,blazing blade,70,40,60,60,55,20,30,48,335
+55,Sain,Cavalier,1,19,8,4,6,4,6,0,9,7,blazing blade,80,60,35,40,35,20,20,56,290
+56,Kent,Cavalier,1,20,6,6,7,2,5,1,9,7,blazing blade,85,40,50,45,20,25,25,56,290
+57,Florina,Pegasus Knight,1,17,5,7,9,7,4,4,4,7,blazing blade,60,40,50,55,50,15,35,57,305
+58,Wil,Archer,2,20,6,5,5,6,5,0,6,5,blazing blade,75,50,50,40,40,20,25,53,300
+59,Dorcas,Fighter,3,30,7,7,6,3,3,0,14,5,blazing blade,80,60,40,20,45,25,15,70,285
+60,Serra,Cleric,1,17,2,5,8,6,2,5,4,5,blazing blade,50,50,30,40,60,15,55,49,300
+61,Erk,Mage,1,17,5,6,7,3,2,4,5,5,blazing blade,65,40,40,50,30,20,40,49,285
+62,Rath,Nomad,7,25,8,9,10,5,7,2,8,7,blazing blade,80,50,40,50,30,10,25,74,285
+63,Matthew,Thief,2,18,4,4,11,2,3,0,7,6,blazing blade,75,30,40,70,50,25,20,49,310
+64,Lucius,Monk,3,18,7,6,10,2,1,6,6,5,blazing blade,55,60,50,40,20,10,60,56,295
+65,Eliwood,Lord,1,18,5,5,7,7,5,0,7,5,blazing blade,80,45,50,40,45,30,35,54,325
+66,Lowen,Cavalier,2,23,7,5,7,3,7,0,10,7,blazing blade,90,30,30,30,50,40,30,62,300
+67,Marcus,Paladin,1,31,15,15,11,8,10,8,11,8,blazing blade,65,30,50,25,30,15,35,109,250
+68,Rebecca,Archer,1,17,4,5,6,4,3,1,5,5,blazing blade,60,40,50,60,50,15,30,45,305
+69,Dorcas,Fighter,3,30,7,7,6,3,3,0,14,5,blazing blade,80,60,40,20,45,25,15,70,285
+70,Bartre,Fighter,2,29,9,5,3,4,4,0,13,5,blazing blade,85,50,35,40,30,30,25,67,295
+71,Hector,Lord,1,19,7,4,5,3,8,0,13,5,blazing blade,90,60,45,35,30,50,25,59,335
+72,Oswin,Knight,9,28,13,9,5,3,13,3,14,4,blazing blade,90,40,30,30,35,55,30,88,310
+73,Serra,Cleric,1,17,2,5,8,6,2,5,4,5,blazing blade,50,50,30,40,60,15,55,49,300
+74,Matthew,Thief,2,18,4,4,11,2,3,0,7,6,blazing blade,75,30,40,70,50,25,20,49,310
+75,Guy,Myrmidon,3,21,6,11,11,5,5,0,5,5,blazing blade,75,30,50,70,45,15,25,64,310
+76,Merlinus,Transporter,5,18,0,4,5,12,5,2,25,0,blazing blade,120,0,90,90,100,30,15,71,445
+77,Erk,Mage,1,17,5,6,7,3,2,4,5,5,blazing blade,65,40,40,50,30,20,40,49,285
+78,Priscilla,Troubadour,3,16,6,6,8,7,3,6,4,7,blazing blade,45,40,50,40,65,15,50,56,305
+79,Lyn,Lord,4,18,5,10,11,5,2,0,5,5,blazing blade,70,40,60,60,55,20,30,56,335
+80,Wil,Archer,4,21,6,5,6,7,5,1,6,5,blazing blade,75,50,50,40,40,20,25,57,300
+81,Kent,Cavalier,5,23,8,7,8,4,6,1,9,7,blazing blade,85,40,50,45,20,25,25,66,290
+82,Sain,Cavalier,4,22,9,5,7,5,7,0,9,7,blazing blade,80,60,35,40,35,20,20,64,290
+83,Florina,Pegasus Knight,3,18,6,8,9,8,4,5,4,7,blazing blade,60,40,50,55,50,15,35,62,305
+84,Raven,Mercenary,5,25,8,11,13,2,5,1,8,5,blazing blade,85,55,40,45,35,25,15,73,300
+85,Lucius,Monk,3,18,7,6,10,2,1,6,6,5,blazing blade,55,60,50,40,20,10,60,56,295
+86,Canas,Shaman,8,21,10,9,8,7,5,8,7,5,blazing blade,70,45,40,35,25,25,45,75,285
+87,Dart,Pirate,8,34,12,8,8,3,6,1,10,5,blazing blade,70,65,20,60,35,20,15,82,285
+88,Fiora,Pegasus Knight,7,21,8,11,13,6,6,7,5,7,blazing blade,70,35,60,50,30,20,50,77,315
+89,Legault,Thief,12,26,8,11,15,10,8,3,9,6,blazing blade,60,25,45,60,60,25,25,90,300
+90,Isadora,Paladin,1,28,13,12,16,10,8,6,6,8,blazing blade,75,30,35,50,45,20,25,99,280
+91,Heath,Wyvern Rider,7,28,11,8,7,7,10,1,9,7,blazing blade,80,50,50,45,20,30,20,81,295
+92,Rath,Nomad,9,27,9,10,11,5,8,2,7,7,blazing blade,80,50,40,50,30,10,25,79,285
+93,Hawkeye,Berserker,4,50,18,14,11,13,14,10,16,6,blazing blade,50,40,30,25,40,20,35,146,240
+94,Geitz,Warrior,3,40,17,12,13,10,11,3,13,6,blazing blade,85,50,30,40,40,20,20,119,285
+95,Wallace,General,1,34,16,9,8,10,19,5,15,5,blazing blade,70,45,40,20,30,35,35,116,275
+96,Farina,Pegasus Knight,12,24,10,13,14,10,10,12,5,7,blazing blade,75,50,40,45,45,25,30,98,310
+97,Pent,Sage,6,33,18,21,17,14,11,16,8,6,blazing blade,50,30,20,40,40,30,35,138,245
+98,Louise,Sniper,4,28,12,14,17,16,9,12,6,6,blazing blade,60,40,40,40,30,20,30,114,260
+99,Karel,Swordmaster,8,31,16,23,20,15,13,12,9,6,blazing blade,70,30,50,50,30,10,15,139,255
+100,Harken,Hero,8,38,21,20,17,12,15,10,11,6,blazing blade,80,35,30,40,20,30,25,144,260
+101,Nino,Mage,5,19,7,8,11,10,4,7,3,5,blazing blade,55,50,55,60,45,15,50,69,330
+102,Jaffar,Assassin,13,34,19,25,24,10,15,11,8,6,blazing blade,65,15,40,35,20,30,30,146,235
+103,Vaida,Wyvern Lord,9,43,20,19,13,11,21,6,12,8,blazing blade,60,45,25,40,30,25,15,145,240
+104,Karla,Swordmaster,5,29,14,21,18,16,11,12,7,6,blazing blade,60,25,45,55,40,10,20,128,255
+105,Renault,Bishop,16,43,12,22,20,10,15,18,9,6,blazing blade,60,40,30,35,15,20,40,149,240
+106,Athos,Archsage,20,40,30,24,20,25,20,28,9,6,blazing blade,0,0,0,0,0,0,0,196,0
+107,Eirika,Lord,1,16,4,8,9,5,3,1,5,5,sacred stones,70,40,60,60,60,30,30,51,350
+108,Seth,Paladin,1,30,14,13,12,13,11,8,11,8,sacred stones,90,50,45,45,25,40,30,112,325
+109,Franz,Cavalier,1,20,7,5,7,2,6,1,9,7,sacred stones,80,40,40,50,40,25,20,57,295
+110,Gilliam,Knight,4,25,9,6,3,3,9,3,14,4,sacred stones,90,45,35,30,30,55,20,72,305
+111,Vanessa,Pegasus Knight,1,17,5,7,11,4,6,5,5,7,sacred stones,50,35,55,60,50,20,30,60,300
+112,Moulder,Priest,3,20,4,6,9,1,2,5,9,5,sacred stones,70,40,50,40,20,25,25,56,270
+113,Ross,Journeyman,1,15,5,2,3,8,3,0,8,4,sacred stones,70,50,35,30,40,25,20,44,270
+114,Garcia,Fighter,4,28,8,7,7,3,5,1,14,5,sacred stones,80,65,40,20,40,25,15,73,285
+115,Neimi,Archer,1,17,4,5,6,4,3,2,5,5,sacred stones,55,45,50,60,50,15,35,46,310
+116,Colm,Thief,2,18,4,4,10,8,3,1,6,6,sacred stones,75,40,40,65,45,25,20,54,310
+117,Artur,Monk,2,19,6,6,8,2,2,6,6,5,sacred stones,55,50,50,40,25,15,55,55,290
+118,Lute,Mage,1,17,6,6,7,8,3,5,3,5,sacred stones,45,65,30,45,45,15,40,55,285
+119,Natasha,Cleric,1,18,2,4,8,6,2,6,4,5,sacred stones,50,60,25,40,60,15,55,50,305
+120,Joshua,Myrmidon,5,24,8,13,14,7,5,2,8,5,sacred stones,80,35,55,55,30,20,20,81,295
+121,Ephraim,Lord,4,23,8,9,11,8,7,2,8,5,sacred stones,80,55,55,45,50,35,25,76,345
+122,Forde,Cavalier,6,24,7,8,8,7,8,2,9,7,sacred stones,85,40,50,45,35,20,25,73,300
+123,Kyle,Cavalier,5,25,9,6,7,6,9,1,10,7,sacred stones,90,50,40,40,20,25,20,73,285
+124,Orson,Paladin,3,34,15,13,11,4,13,7,12,8,sacred stones,80,55,45,40,25,45,30,109,320
+125,Tana,Pegasus Knight,4,20,7,9,13,8,6,7,5,7,sacred stones,65,45,40,65,60,20,25,75,320
+126,Amelia,Recruit,1,16,4,3,4,6,2,3,6,4,sacred stones,60,35,40,40,50,30,15,44,270
+127,Innes,Sniper,1,31,14,13,15,14,10,9,9,6,sacred stones,75,40,40,45,45,20,25,115,290
+128,Gerik,Mercenary,10,32,14,13,13,8,10,4,13,5,sacred stones,90,45,40,30,30,35,25,107,295
+129,Tethys,Dancer,1,18,1,2,12,10,5,4,5,5,sacred stones,85,5,10,70,80,30,75,57,355
+130,Marisa,Myrmidon,5,23,7,12,13,9,4,3,5,5,sacred stones,75,30,55,60,50,15,25,76,310
+131,L’Arachel,Troubadour,3,18,6,6,10,12,5,8,5,6,sacred stones,45,50,45,45,65,15,50,70,315
+132,Dozla,Berserker,1,43,16,11,9,4,11,6,16,6,sacred stones,85,50,35,40,30,30,25,116,295
+133,Saleh,Sage,1,30,16,18,14,11,8,13,8,6,sacred stones,50,30,25,40,40,30,35,118,250
+134,Ewan,Pupil,1,15,3,2,5,5,0,3,5,4,sacred stones,50,45,40,35,50,15,40,38,275
+135,Cormag,Wyvern Rider,9,30,14,9,10,4,12,2,11,7,sacred stones,85,55,40,45,35,25,15,92,300
+136,Rennac,Rogue,1,28,10,16,17,5,9,11,7,6,sacred stones,65,25,45,60,25,25,30,103,275
+137,Duessel,Great Knight,8,41,17,12,12,8,17,9,15,6,sacred stones,85,55,40,30,20,45,30,131,305
+138,Knoll,Shaman,10,22,13,9,8,0,2,10,7,5,sacred stones,70,50,40,35,20,10,45,71,270
+139,Myrrh,Manakete,1,15,3,1,5,3,2,7,5,6,sacred stones,130,90,85,65,30,150,30,41,580
+140,Syrene,Falcoknight,1,27,12,13,15,12,10,12,7,8,sacred stones,70,40,50,60,30,20,50,108,320
