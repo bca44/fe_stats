@@ -45,6 +45,13 @@ blazing_promotion_gains = pd.read_html(StringIO(blazing_promotion_gains_r.text))
 blazing_promotion_gains = pd.DataFrame(blazing_promotion_gains[0])
 blazing_promotion_gains.to_csv('data/promotion_gains/blazing_promotion_gains.csv')
 
+# blazing_class_promotions_r = r.get('https://serenesforest.net/blazing-sword/classes/introduction/')
+# blazing_class_promotions = pd.read_html(StringIO(blazing_class_promotions_r.text))
+# blazing_class_promotions = pd.DataFrame(blazing_class_promotions[0])
+# blazing_class_promotions.to_csv('data/promotion_gains/blazing_class_promotions.csv')
+# due to some formatting inconsistencies, the above table required manual editing to be usable. The edited version is saved in the repo as blazing_class_promotions.csv
+# please do not mess with it
+
 
 sacred_base_r = r.get('https://serenesforest.net/the-sacred-stones/characters/base-stats/')
 sacred_base = pd.read_html(StringIO(sacred_base_r.text))

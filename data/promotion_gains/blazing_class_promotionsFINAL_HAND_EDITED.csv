@@ -1,0 +1,56 @@
+,Icon,Class,Weapons,Promotes to,Notes
+0,,Lord (Lyn),Sword,Blade Lord,–
+1,,Blade Lord,"Sword, Bow",–,–
+2,,Lord (Eliwood),Sword,Knight Lord,–
+3,,Knight Lord,"Sword, Lance",–,Horseback
+4,,Lord (Hector),Axe,Great Lord,–
+5,,Great Lord,"Sword, Axe",–,Armoured
+6,,Mercenary (M),Sword,Hero (M),–
+7,,Hero,"Sword, Axe",–,–
+8,,Myrmidon (M),Sword,Swordmaster (M),–
+9,,Swordmaster,Sword,–,+15 critical
+10,,Thief,Sword,Assassin,Can steal items
+11,,Assassin,Sword,–,One-hit KO skill
+12,,Armour Knight (M),Lance,General (M),Armoured
+13,,General,"Lance, Axe",–,Armoured
+14,,Soldier,Lance,–,Enemy only
+15,,Fighter,Axe,Warrior,–
+16,,Warrior,"Axe, Bow",–,–
+17,,Bandit,Axe,Berserker,"Can cross mountains, enemy only"
+18,,Pirate,Axe,Berserker,Can cross seas
+19,,Corsair,Axe,–,"Can cross seas, enemy only"
+20,,Berserker,Axe,–,"+15 critical, can cross mountains and seas"
+21,,Archer (M),Bow,Sniper (M),Can use ballistae
+22,,Sniper (M),Bow,–,Can use ballistae
+21,,Archer (F),Bow,Sniper (F),Can use ballistae
+22,,Sniper (F),Bow,–,Can use ballistae
+23,,Nomad (M),Bow,Nmd Trooper (M),Horseback
+24,,Nmd Trooper,"Sword, Bow",–,Horseback
+25,,Cavalier (M),"Sword, Lance",Paladin (M),Horseback
+26,,Paladin,"Sword, Lance, Axe",–,Horseback
+27,,Pegasus Knight (F),Lance,Falcoknight,Flying
+28,,Falcon Knight (F),"Sword, Lance",–,Flying
+29,,Wyvern Rider (M),Lance,Wyvern Lord (M),"Dragon, flying"
+30,,Wyvern Lord,"Sword, Lance",–,"Dragon, flying"
+31,,Monk,Light,Bishop (M),–
+32,,Cleric,Staff,Bishop (F),–
+33,,Bishop (M),"Staff, Light",–,–
+33,,Bishop (M),"Staff, Light",–,–
+34,,Troubadour,Staff,Valkyrie,Horseback
+35,,Valkyrie,"Staff, Anima",–,Horseback
+36,,Mage (M),Anima,Sage (M),–
+36,,Mage (F),Anima,Sage (F),–
+37,,Sage,"Staff, Anima",–,–
+38,,ArchSage,"Staff, Anima, Light, Dark",–,–
+39,,Shaman (M),Dark,Druid (M),–
+40,,Druid (M),"Staff, Dark",–,–
+41,,Dark Druid,"Staff, Anima, Light, Dark",–,Enemy only
+42,,Bard,–,–,Can allow an ally to move again
+43,,Dancer,–,–,Can allow an ally to move again
+44,,Magic Seal,–,–,"Silences all characters within range, enemy only"
+45,,Bramimond,"Staff, Dark",–,Unused
+46,?,Fire Dragon,–,–,"Dragon, enemy only"
+47,,Civilian,–,–,NPC only
+48,,Prince,Sword,–,NPC only
+49,,Transporter (Tent),,Transporter (Wagon),Can store items
+50,,Transporter (Wagon),–,–,Can store items

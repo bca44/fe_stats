@@ -10,7 +10,11 @@ blazing_base = pd.read_csv('data/unit_base/blazing_base.csv').drop(columns=['Aff
 blazing_unit_growths = pd.read_csv('data/unit_growths/blazing_unit_growths.csv')
 blazing_class_growths = pd.read_csv('data/class_growths/blazing_class_growths.csv')
 blazing_class_growths.rename(columns={'Name': 'Class'}, inplace=True)
+
 blazing_promotion_gains = pd.read_csv('data/promotion_gains/blazing_promotion_gains.csv')
+blazing_class_promotions = pd.read_csv('data/promotion_gains/blazing_class_promotionsFINAL_HAND_EDITED.csv')
+blazing_promotion_gains.rename(columns={'Class': 'Promotion'}, inplace=True)
+blazing_promotion_gains = pd.merge(blazing_promotion_gains, blazing_class_promotions, how='left', left_on='Promotion', right_on='Promotes to')
 
 sacred_base = pd.read_csv('data/unit_base/sacred_base.csv').drop(columns=['Affin', 'Weapon Rank'])
 sacred_unit_growths = pd.read_csv('data/unit_growths/sacred_unit_growths.csv')
@@ -33,7 +37,9 @@ for df in [binding_class_growths, blazing_class_growths, sacred_class_growths]:
     df.drop(df[df['Class'] == 'Name'].index, inplace=True)
 
 binding_promotion_gains.drop(columns=['Unnamed: 0', 'Weapon ranks'], inplace=True)
-blazing_promotion_gains.drop(columns=['Unnamed: 0', 'Weapon EXP'], inplace=True)
+blazing_promotion_gains.drop(columns=['Unnamed: 0_x', 'Promotes to', 'Unnamed: 0_y', 'Icon', 'Weapon EXP', 'Weapons', 'Notes'], inplace=True)
+# blazing_promotion_gains.to_csv('data/promotion_gains/blazing_promotion_gains.csv', index=False)
+
 sacred_promotion_gains.drop(columns=['Unnamed: 0', 'Weapon Ranks'], inplace=True)
 
 for df in [binding_promotion_gains, blazing_promotion_gains, sacred_promotion_gains]:
@@ -88,7 +94,7 @@ class_growths_df.rename(columns={'Class': 'class_name',
                            'Def':'def_growth',
                            'Res':'res_growth'}, inplace=True)
 
-promotion_gains_df = pd.concat([binding_promotion_gains, blazing_promotion_gains])
+promotion_gains_df = pd.concat([binding_promotion_gains, blazing_promotion_gains, sacred_promotion_gains])
 promotion_gains_df.rename(columns={'Class': 'base_class',
                                    'Promotion': 'promoted_class',
                                    'HP': 'hp_gain',
@@ -131,12 +137,12 @@ promotion_gains_df['total_gains'] = promotion_gains_df[['hp_gain', 's_or_m_gain'
                             'skl_gain', 'spd_gain', 'def_gain',
                             'res_gain', 'con_gain', 'mov_gain']].sum(axis=1)
 
-hero_df.to_csv("hero_df.csv")
-class_growths_df.to_csv("class_growths_df.csv")
-promotion_gains_df.to_csv("promotion_gains_df.csv")
+hero_df.to_csv("data/hero_df.csv", index=False)
+class_growths_df.to_csv("data/class_growths_df.csv", index=False)
+promotion_gains_df.to_csv("data/promotion_gains_df.csv", index=False)
 
 
-if __name__ == '__main__':
+if __name__ == 'test': #'__main__':
     print("HERO")
     print(hero_df.head())
     print(hero_df.columns)

@@ -1,0 +1,236 @@
+class_name,hp_growth,s_or_m_growth,skl_growth,spd_growth,def_growth,res_growth,lck_growth,game,total_growths
+Lord,90,45,40,45,15,12,40,binding blade,287
+Master Lord,60,35,30,30,35,10,15,binding blade,215
+Bard,45,45,30,60,0,3,70,binding blade,253
+Dancer,45,45,30,60,0,3,70,binding blade,253
+Transporter,10,0,0,0,0,0,0,binding blade,10
+Mercenary (M),80,40,40,32,18,15,30,binding blade,255
+Mercenary (F),80,40,40,32,18,15,30,binding blade,255
+Hero (M),75,30,30,20,20,10,25,binding blade,210
+Hero (F),75,30,30,20,20,10,25,binding blade,210
+Myrmidon (M),70,35,40,40,15,17,30,binding blade,247
+Myrmidon (F),70,35,40,40,15,17,30,binding blade,247
+Swordmaster (M),65,20,30,30,15,12,25,binding blade,197
+Swordmaster (F),65,25,30,30,15,12,25,binding blade,202
+Thief (M),50,5,45,40,5,20,40,binding blade,205
+Thief (F),45,5,45,40,5,20,40,binding blade,200
+Soldier,80,50,30,20,12,10,25,binding blade,227
+Cavalier (M),75,35,40,28,15,12,30,binding blade,235
+Cavalier (F),75,35,40,28,15,12,30,binding blade,235
+Paladin (M),70,25,30,18,12,17,25,binding blade,197
+Paladin (F),70,25,35,25,12,17,25,binding blade,209
+Knight (M),80,40,35,15,28,5,25,binding blade,228
+Knight (F),80,40,35,15,28,5,25,binding blade,228
+General (M),75,30,25,10,23,15,20,binding blade,198
+General (F),75,30,35,10,23,15,20,binding blade,208
+Fighter,85,55,35,30,15,10,15,binding blade,245
+Warrior,80,45,25,20,16,7,15,binding blade,208
+Brigand,82,50,30,20,10,10,15,binding blade,217
+Pirate,75,50,35,25,10,10,15,binding blade,220
+Berserker,58,35,25,12,10,10,15,binding blade,165
+Archer (M),70,35,40,32,15,10,35,binding blade,237
+Archer (F),70,35,40,32,15,10,35,binding blade,237
+Sniper (M),65,30,30,20,15,15,30,binding blade,205
+Sniper (F),65,30,30,20,15,15,30,binding blade,205
+Nomad (M),65,30,40,45,12,15,30,binding blade,237
+Nomad (F),65,30,40,45,12,15,30,binding blade,237
+Nomad Trooper (M),60,25,30,35,15,10,25,binding blade,200
+Nomad Trooper (F),60,25,30,35,15,10,25,binding blade,200
+Pegasus Knight,65,35,40,40,12,25,35,binding blade,252
+Falcon Knight,60,30,30,30,12,20,30,binding blade,212
+Wyvern Rider (M),80,45,35,30,25,10,25,binding blade,250
+Wyvern Rider (F),80,45,35,30,25,10,25,binding blade,250
+Wyvern Lord (M),75,40,30,20,20,7,20,binding blade,212
+Wyvern Lord (F),75,40,30,20,20,7,20,binding blade,212
+Mage (M),55,55,40,35,5,35,20,binding blade,245
+Mage (F),55,55,40,35,5,35,20,binding blade,245
+Sage (M),45,45,30,25,10,25,15,binding blade,195
+Sage (F),45,45,30,25,10,25,15,binding blade,195
+Shaman (M),50,50,32,30,10,37,20,binding blade,229
+Shaman (F),50,45,32,30,10,37,20,binding blade,224
+Druid (M),45,55,30,25,10,27,20,binding blade,212
+Druid (F),45,55,30,25,10,27,20,binding blade,212
+Priest (M),50,30,35,32,8,50,45,binding blade,250
+Priest (F),50,30,35,32,8,50,45,binding blade,250
+Bishop (M),45,35,25,22,8,40,40,binding blade,215
+Bishop (F),45,35,25,22,8,40,40,binding blade,215
+Troubadour,50,25,35,55,12,30,45,binding blade,252
+Valkyria,45,35,25,45,10,20,40,binding blade,220
+Mamkute (M),95,40,30,20,0,10,25,binding blade,220
+Mamkute (F),95,40,30,20,0,10,25,binding blade,220
+Fire Dragon,95,40,30,20,0,10,25,binding blade,220
+Divine Dragon,95,45,30,25,55,10,25,binding blade,285
+Demon Dragon,10,0,0,0,0,0,0,binding blade,10
+Child (M),10,0,0,0,0,0,0,binding blade,10
+Child (F),10,0,0,0,0,0,0,binding blade,10
+Civilian (M),10,0,0,0,0,0,0,binding blade,10
+Civilian (F),10,0,0,0,0,0,0,binding blade,10
+King,10,0,0,0,0,0,0,binding blade,10
+Archer (F),70,35,40,32,15,20,35,blazing blade,247
+Archer (M),70,35,40,32,15,15,35,blazing blade,242
+Archsage,45,45,30,25,10,35,15,blazing blade,205
+Assassin,50,5,45,40,5,20,40,blazing blade,205
+Bard,45,45,30,60,0,13,70,blazing blade,263
+Berserker,75,50,35,25,10,13,15,blazing blade,223
+Bishop (F),45,35,25,22,8,50,40,blazing blade,225
+Bishop (M),45,35,25,22,8,40,40,blazing blade,215
+Blade Lord,90,45,40,45,15,12,40,blazing blade,287
+Brigand,82,50,30,20,10,13,15,blazing blade,220
+Cavalier (F),75,35,40,28,15,15,30,blazing blade,238
+Cavalier (M),75,35,40,28,15,15,30,blazing blade,238
+Civilian,10,0,0,0,0,10,0,blazing blade,20
+Cleric,50,30,35,32,8,50,45,blazing blade,250
+Corsair,75,50,35,25,10,13,15,blazing blade,223
+Dancer,45,45,30,60,0,13,70,blazing blade,263
+Dark Druid,45,55,30,25,10,35,20,blazing blade,220
+Druid (F),45,55,30,25,10,35,20,blazing blade,220
+Druid (M),45,55,30,25,10,35,20,blazing blade,220
+Falcon Knight,60,30,30,30,12,30,30,blazing blade,222
+Fighter,85,55,35,30,15,15,15,blazing blade,250
+Fire Dragon,95,40,30,20,0,20,25,blazing blade,230
+General (F),75,30,25,10,23,25,20,blazing blade,208
+General (M),75,30,20,10,23,25,20,blazing blade,203
+Great Lord,90,45,40,45,15,20,40,blazing blade,295
+Hero (F),75,30,30,20,20,20,25,blazing blade,220
+Hero (M),75,30,30,20,20,20,25,blazing blade,220
+Knight (F),80,40,30,15,28,20,25,blazing blade,238
+Knight (M),80,40,30,15,28,20,25,blazing blade,238
+Knight Lord,90,45,40,45,15,15,40,blazing blade,290
+Lord (Eliwood),90,45,40,45,15,15,40,blazing blade,290
+Lord (Hector),90,45,40,45,15,12,40,blazing blade,287
+Lord (Lyn),90,45,40,45,15,20,40,blazing blade,295
+Mage (F),55,55,40,35,5,40,20,blazing blade,250
+Mage (M),55,55,40,35,5,30,20,blazing blade,240
+Magic Seal,45,45,30,25,10,35,15,blazing blade,205
+Mercenary (F),80,40,40,32,18,30,30,blazing blade,270
+Mercenary (M),80,40,40,32,18,20,30,blazing blade,260
+Monk,50,30,35,32,8,40,45,blazing blade,240
+Myrmidon (F),70,35,40,40,15,20,30,blazing blade,250
+Myrmidon (M),70,35,40,40,15,20,30,blazing blade,250
+Nomad Trooper (F),60,25,30,35,15,20,25,blazing blade,210
+Nomad Trooper (M),60,25,30,35,15,15,25,blazing blade,205
+Nomad (F),65,30,40,45,12,15,30,blazing blade,237
+Nomad (M),65,30,40,45,12,15,30,blazing blade,237
+Paladin (F),70,25,35,25,12,25,25,blazing blade,217
+Paladin (M),70,25,30,18,12,20,25,blazing blade,200
+Pegasus Knight,65,35,40,40,12,35,35,blazing blade,262
+Pirate,75,50,35,25,10,13,15,blazing blade,223
+Prince,10,0,0,0,0,10,0,blazing blade,20
+Sage (Limstella),45,45,30,25,10,40,15,blazing blade,210
+Sage (F),45,45,30,25,10,40,15,blazing blade,210
+Sage (M),45,45,30,25,10,40,15,blazing blade,210
+Shaman (F),50,45,32,30,10,40,20,blazing blade,227
+Shaman (M),50,50,32,30,10,30,20,blazing blade,222
+Sniper (F),65,30,30,20,15,25,30,blazing blade,215
+Sniper (M),65,30,30,20,15,20,30,blazing blade,210
+Soldier,80,50,30,20,12,15,25,blazing blade,232
+Swordmaster (F),65,25,30,30,15,22,25,blazing blade,212
+Swordmaster (M),65,25,30,30,15,22,25,blazing blade,212
+Thief (F),45,5,45,40,5,25,40,blazing blade,205
+Thief (M),50,5,45,40,5,20,40,blazing blade,205
+Transporter (Wagon),10,0,0,0,0,10,0,blazing blade,20
+Transporter (Tent),10,0,0,0,0,10,0,blazing blade,20
+Troubadour,50,25,35,55,12,40,45,blazing blade,262
+Valkyie,45,35,25,45,10,40,40,blazing blade,240
+Warrior,80,45,25,20,16,17,15,blazing blade,218
+Wyvern Lord (F),75,40,30,20,20,17,20,blazing blade,222
+Wyvern Lord (M),75,40,30,20,20,17,20,blazing blade,222
+Wyvern Rider (F),80,45,35,30,25,17,25,blazing blade,257
+Wyvern Rider (M),80,45,35,30,25,15,25,blazing blade,255
+Lord (M),90,45,40,45,15,15,40,sacred stones,290
+Lord (F),90,45,40,45,15,20,40,sacred stones,295
+Great Lord (M),90,45,40,45,15,15,40,sacred stones,290
+Great Lord (F),90,45,40,45,15,20,40,sacred stones,295
+Dancer,45,45,30,60,0,13,70,sacred stones,263
+Soldier,80,50,30,20,12,15,25,sacred stones,232
+Cavalier (M),75,35,40,28,15,15,30,sacred stones,238
+Cavalier (F),75,35,40,28,15,15,30,sacred stones,238
+Paladin (M),70,25,30,18,12,20,25,sacred stones,200
+Paladin (F),70,25,35,25,12,25,25,sacred stones,217
+Great Knight (M),70,30,20,15,21,20,20,sacred stones,196
+Great Knight (F),70,30,25,20,21,22,20,sacred stones,208
+Knight (M),80,40,30,15,28,20,25,sacred stones,238
+Knight (F),80,40,30,15,28,20,25,sacred stones,238
+General (M),75,30,20,10,23,25,20,sacred stones,203
+General (F),75,30,25,10,23,25,20,sacred stones,208
+Mercenary (M),80,40,40,32,18,20,30,sacred stones,260
+Mercenary (F),80,40,40,32,18,30,30,sacred stones,270
+Hero (M),75,30,30,20,20,20,25,sacred stones,220
+Hero (F),75,30,30,20,20,20,25,sacred stones,220
+Myrmidon (M),70,35,40,40,15,20,30,sacred stones,250
+Myrmidon (F),70,35,40,40,15,20,30,sacred stones,250
+Swordmaster (M),65,25,30,30,15,22,25,sacred stones,212
+Swordmaster (F),65,25,30,30,15,22,25,sacred stones,212
+Assassin (M),50,5,45,40,5,20,40,sacred stones,205
+Assassin (F),50,5,45,40,5,20,40,sacred stones,205
+Thief,50,5,45,40,5,20,40,sacred stones,205
+Rogue,50,10,45,35,5,20,40,sacred stones,205
+Archer (M),70,35,40,32,15,15,35,sacred stones,242
+Archer (F),70,35,40,32,15,20,35,sacred stones,247
+Sniper (M),65,30,30,20,15,20,30,sacred stones,210
+Sniper (F),65,30,30,20,15,25,30,sacred stones,215
+Ranger (M),60,25,30,35,15,15,25,sacred stones,205
+Ranger (F),60,25,30,35,15,20,25,sacred stones,210
+Wyvern Rider (M),80,45,35,30,25,15,25,sacred stones,255
+Wyvern Rider (F),80,45,35,30,25,17,25,sacred stones,257
+Wyvern Lord (M),75,40,30,20,20,17,20,sacred stones,222
+Wyvern Lord (F),75,40,30,20,20,17,20,sacred stones,222
+Wyvern Knight (M),65,35,30,30,15,17,25,sacred stones,217
+Wyvern Knight (F),65,35,30,30,15,20,25,sacred stones,220
+Mage (M),55,55,40,35,5,30,20,sacred stones,240
+Mage (F),55,55,40,35,5,40,20,sacred stones,250
+Sage (M),45,45,30,25,10,40,15,sacred stones,210
+Sage (F),45,45,30,25,10,40,15,sacred stones,210
+Mage Knight (M),45,40,30,40,10,40,30,sacred stones,235
+Mage Knight (F),45,40,30,40,10,40,40,sacred stones,245
+Monk,50,30,35,32,8,40,45,sacred stones,240
+Priest,50,30,35,32,8,50,45,sacred stones,250
+Cleric,50,30,35,32,8,50,45,sacred stones,250
+Bishop (M),45,35,25,22,8,40,40,sacred stones,215
+Bishop (F),45,35,25,22,8,50,40,sacred stones,225
+Shaman (M),50,50,32,30,10,30,20,sacred stones,222
+Shaman (F),50,45,32,30,10,40,20,sacred stones,227
+Druid (M),45,55,30,25,10,35,20,sacred stones,220
+Druid (F),45,55,30,25,10,35,20,sacred stones,220
+Summoner (M),45,50,30,25,8,35,20,sacred stones,213
+Summoner (F),45,50,30,25,8,35,20,sacred stones,213
+Journeyman (all),85,55,40,32,18,20,40,sacred stones,290
+Recruit (all),75,45,40,40,25,35,40,sacred stones,300
+Pupil (all),55,55,40,35,10,30,40,sacred stones,265
+Manakete (M),95,40,30,20,0,10,25,sacred stones,220
+Manakete (F),95,40,30,20,0,10,25,sacred stones,220
+Fighter,85,55,35,30,15,15,15,sacred stones,250
+Warrior,80,45,25,20,16,17,15,sacred stones,218
+Brigand,82,50,30,20,10,13,15,sacred stones,220
+Pirate,75,50,35,25,10,13,15,sacred stones,223
+Berserker,75,50,35,25,10,13,15,sacred stones,223
+Pegasus Knight,65,35,40,40,12,35,35,sacred stones,262
+Falcon Knight,60,30,30,30,12,30,30,sacred stones,222
+Troubadour,50,25,35,55,12,40,45,sacred stones,262
+Valkyrie,45,35,25,45,10,40,40,sacred stones,240
+Necromancer,45,55,30,25,10,35,20,sacred stones,220
+Fleet,75,35,40,32,15,15,15,sacred stones,227
+Phantom,0,55,35,45,15,15,50,sacred stones,215
+Revenant,95,50,30,20,10,13,10,sacred stones,228
+Entombed,85,40,25,17,10,13,50,sacred stones,240
+Bonewalker (melee),80,50,30,20,12,15,10,sacred stones,217
+Bonewalker (bow),70,35,40,32,15,15,10,sacred stones,217
+Wight (melee),65,25,25,20,15,22,10,sacred stones,182
+Weight (bow),65,30,30,20,15,20,10,sacred stones,190
+Bael,82,50,30,20,18,13,15,sacred stones,228
+Elder Bael,85,45,25,20,21,17,10,sacred stones,223
+Cyclops,95,30,35,25,24,25,10,sacred stones,244
+Mauthedoog,70,35,45,45,15,20,30,sacred stones,260
+Gwyllgi,65,28,35,35,16,22,25,sacred stones,226
+Tarvos,80,35,40,28,15,15,10,sacred stones,223
+Maelduin,75,30,30,18,13,20,10,sacred stones,196
+Mogall,50,45,32,30,10,28,30,sacred stones,225
+Arch Mogall,45,55,30,25,10,28,20,sacred stones,213
+Gorgon Egg,100,0,0,0,0,0,0,sacred stones,100
+Gorgon,45,60,30,25,10,40,30,sacred stones,240
+Gargoyle,80,45,35,35,25,15,10,sacred stones,245
+Deathgoyle,75,40,30,25,20,17,10,sacred stones,217
+Dracozombie,85,35,20,20,30,10,25,sacred stones,225
+Demon King,95,40,30,20,20,20,25,sacred stones,250
+Civilian,10,0,0,0,0,10,0,sacred stones,20
+Pontifex,10,0,0,0,0,10,0,sacred stones,20
