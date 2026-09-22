@@ -1,28 +1,27 @@
-,Class,Promotion,HP,S/M,Skl,Spd,Def,Res,Con,Mov,Weapon ranks
-0,Lord,Master Lord,+4,+2,+3,+2,+2,+5,+2,+1,+3
-1,Mercenary (M),Hero (M),+4,+2,+1,+2,+4,+2,+1,+1,"+1, E"
-2,Mercenary (F),Hero (F),+6,+3,+5,+5,+4,+3,+1,+1,"+1, E"
-3,Myrmidon (M),Swordmaster (M),+5,+2,+2,+1,+3,+2,+1,+1,+1
-4,Myrmidon (F),Swordmaster (F),+4,+3,+2,+2,+3,+2,+1,+1,+1
-5,Cavalier (M),Paladin (M),+3,+2,+2,+2,+2,+3,+2,+1,"+1, +1, E"
-6,Cavalier (F),Paladin (F),+5,+1,+3,+8,+1,+6,+1,+1,"+1, +1, E"
-7,Knight (M),General (M),+4,+3,+2,+3,+4,+3,+2,+1,"+1, E"
-8,Knight (F),General (F),+4,+4,+2,+4,+3,+3,+1,+1,"+1, E"
-9,Fighter,Warrior,+8,+3,+3,+2,+3,0,+2,+1,"+1, E"
-10,Brigand,Berserker,+4,+2,+5,+2,+3,0,+1,+1,+1
-11,Pirate,Berserker,+5,+3,+4,+1,+3,0,+3,+1,+1
-12,Archer (M),Sniper (M),+3,+3,+3,+2,+2,+2,+1,+1,+1
-13,Archer (F),Sniper (F),+2,+3,+3,+3,+2,+3,+1,+1,+1
-14,Nomad (M),Nomad Trooper (M),+5,+2,+2,+2,+2,+3,+1,+1,"E, +1"
-15,Nomad (F),Nomad Trooper (F),+6,+2,+1,+1,+2,+4,+1,+1,"E, +1"
-16,Pegasus Knight,Falcon Knight,+6,+2,+2,+2,+2,+2,+1,+1,"E, +1"
-17,Wyvern Rider (M),Wyvern Lord (M),+5,+2,+2,+2,+2,+1,+1,+1,"E, +1"
-18,Wyvern Rider (F),Wyvern Lord (F),+5,+2,+2,+2,+2,+2,+1,+1,"E, +1"
-19,Mage (M),Sage (M),+4,+4,+2,+1,+2,+2,+1,+1,"E, +1"
-20,Class,Promotion,HP,S/M,Skl,Spd,Def,Res,Con,Mov,Weapon ranks
-21,Mage (F),Sage (F),+3,+3,+3,+3,+1,+2,+1,+1,"E, +1"
-22,Shaman (M),Druid (M),+3,+4,+2,+2,+2,+2,+1,+1,"E, +1"
-23,Shaman (F),Druid (F),+2,+4,+2,+3,+2,+2,+1,+1,"E, +1"
-24,Priest (M),Bishop (M),+3,+3,+3,+2,+2,+3,+1,+1,"+1, D"
-25,Priest (F),Bishop (F),+3,+3,+3,+2,+2,+3,+1,+1,"+1, D"
-26,Troubadour,Valkyria,+4,+3,+2,+2,+2,+3,+1,+1,"+1, E"
+,base_class,promoted_class,hp_gain,s_or_m_gain,skl_gain,spd_gain,def_gain,res_gain,con_gain,mov_gain,total_gains
+0,Lord,Master Lord,4,2,3,2,2,5,2,1,21
+1,Mercenary (M),Hero (M),4,2,1,2,4,2,1,1,17
+2,Mercenary (F),Hero (F),6,3,5,5,4,3,1,1,28
+3,Myrmidon (M),Swordmaster (M),5,2,2,1,3,2,1,1,17
+4,Myrmidon (F),Swordmaster (F),4,3,2,2,3,2,1,1,18
+5,Cavalier (M),Paladin (M),3,2,2,2,2,3,2,1,17
+6,Cavalier (F),Paladin (F),5,1,3,8,1,6,1,1,26
+7,Knight (M),General (M),4,3,2,3,4,3,2,1,22
+8,Knight (F),General (F),4,4,2,4,3,3,1,1,22
+9,Fighter,Warrior,8,3,3,2,3,0,2,1,22
+10,Brigand,Berserker,4,2,5,2,3,0,1,1,18
+11,Pirate,Berserker,5,3,4,1,3,0,3,1,20
+12,Archer (M),Sniper (M),3,3,3,2,2,2,1,1,17
+13,Archer (F),Sniper (F),2,3,3,3,2,3,1,1,18
+14,Nomad (M),Nomad Trooper (M),5,2,2,2,2,3,1,1,18
+15,Nomad (F),Nomad Trooper (F),6,2,1,1,2,4,1,1,18
+16,Pegasus Knight,Falcon Knight,6,2,2,2,2,2,1,1,18
+17,Wyvern Rider (M),Wyvern Lord (M),5,2,2,2,2,1,1,1,16
+18,Wyvern Rider (F),Wyvern Lord (F),5,2,2,2,2,2,1,1,17
+19,Mage (M),Sage (M),4,4,2,1,2,2,1,1,17
+21,Mage (F),Sage (F),3,3,3,3,1,2,1,1,17
+22,Shaman (M),Druid (M),3,4,2,2,2,2,1,1,17
+23,Shaman (F),Druid (F),2,4,2,3,2,2,1,1,17
+24,Priest (M),Bishop (M),3,3,3,2,2,3,1,1,18
+25,Priest (F),Bishop (F),3,3,3,2,2,3,1,1,18
+26,Troubadour,Valkyria,4,3,2,2,2,3,1,1,18

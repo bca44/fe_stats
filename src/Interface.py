@@ -1,27 +1,17 @@
-import pandas as pd
-from HeroClass import Hero
-from PCClass import PCClass
+from GameClass import Game
+from TeamClass import Team
 
-hero_df = pd.read_csv("data/hero_df.csv")
-class_growths_df = pd.read_csv("data/class_growths_df.csv")
-promotion_gains_df = pd.read_csv("data/promotion_gains_df.csv")
+SacredStones = Game("Sacred Stones ")
+Eirika = SacredStones.get_hero("Eirika")
+# print(Eirika)
+Seth = SacredStones.get_hero("Seth")
 
-if __name__ == "__main__":
-    RoyHero = Hero(hero_df[hero_df['name'] == 'Roy'])
+cavalierM = SacredStones.get_class("Cavalier (M)")
+# print(cavalierM)
 
-    print(f"Testing HeroClass with Roy:\n{RoyHero}")
+team1 = Team("team1")
+team1.add_member(Eirika, Seth)
+print(team1)
 
-    LordEirikaClass = PCClass(class_growths_df[class_growths_df['class_name'] == 'Lord (F)'])
-
-    print(f"Testing PCClass with Lord (Eirika):\n{LordEirikaClass}") # base class testing
-
-    SageFClass = PCClass(
-        class_growths_df[(class_growths_df['class_name'] == 'Sage (F)') & (class_growths_df['game'] == 'blazing blade')]
-        )
-
-    print(f"Testing PCClass with Sage (F):\n{SageFClass}") # promoted class testing
-
-# the testing, so far, is good
-# TODO - some kind of search functionality will be necessary.
-# the format is different across dfs, ex Lord (F) vs Lord (Eirika), so will need to be able to reference
-# the specific formatting when building teams or simming, etc
+team1.remove_member(Eirika, Seth)
+print(team1)

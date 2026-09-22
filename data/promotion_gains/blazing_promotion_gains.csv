@@ -1,22 +1,23 @@
-,Class,HP,S/M,Skl,Spd,Def,Res,Mov,Con,Weapon EXP
-0,Blade Lord,3,2,2,0,3,5,1,1,(+31)
-1,Knight Lord,4,2,0,1,1,3,2,2,(+31)
-2,Great Lord,3,0,2,3,1,5,0,2,(+31)
-3,Paladin (M),2,1,1,1,2,1,1,2,"+30, +30, (+1)"
-4,General (M),4,2,2,3,2,3,1,2,"+30, (+1)"
-5,Hero (M),4,0,2,2,2,2,1,1,"+40, (+1)"
-6,Swordmaster (M),5,2,0,0,2,1,1,1,+40
-7,Assassin,3,1,0,0,2,2,0,0,–
-8,Sniper (M),3,1,2,2,2,3,1,1,+40
-9,Sniper (F),4,3,1,1,2,2,1,1,+40
-10,Nmd Trooper (M),3,2,1,1,3,3,1,1,"(+1), +40"
-11,Wyvern Lord (M),4,0,2,2,0,2,1,1,"(+1), +40"
-12,Sage (M),4,1,0,0,3,3,1,1,"(+1), +40"
-13,Sage (F),3,1,1,0,3,3,1,1,"(+1), +40"
-14,Bishop (M),3,2,1,0,3,2,1,1,"(+71), +30"
-15,Bishop (F),3,1,2,1,2,2,1,1,"+40, (+31)"
-16,Druid (M),4,0,0,3,2,2,1,1,"(+1), +40"
-17,Warrior,3,1,2,0,3,3,1,2,"+40, (+1)"
-18,Berserker,4,1,1,1,2,2,1,3,+40
-19,Falcoknight,5,2,0,0,2,2,1,1,"(+1), +40"
-20,Valkyrie,3,2,1,0,2,3,1,1,"+40, (+1)"
+,base_class,promoted_class,hp_gain,s_or_m_gain,skl_gain,spd_gain,def_gain,res_gain,con_gain,mov_gain,total_gains
+0,Lord (Lyn),Blade Lord,3,2,2,0,3,5,1,1,17
+1,Lord (Eliwood),Knight Lord,4,2,0,1,1,3,2,2,15
+2,Lord (Hector),Great Lord,3,0,2,3,1,5,2,0,16
+3,Cavalier (M),Paladin (M),2,1,1,1,2,1,2,1,11
+4,Armour Knight (M),General (M),4,2,2,3,2,3,2,1,19
+5,Mercenary (M),Hero (M),4,0,2,2,2,2,1,1,14
+6,Myrmidon (M),Swordmaster (M),5,2,0,0,2,1,1,1,12
+7,Thief,Assassin,3,1,0,0,2,2,0,0,8
+8,Archer (M),Sniper (M),3,1,2,2,2,3,1,1,15
+9,Archer (F),Sniper (F),4,3,1,1,2,2,1,1,15
+10,Nomad (M),Nmd Trooper (M),3,2,1,1,3,3,1,1,15
+11,Wyvern Rider (M),Wyvern Lord (M),4,0,2,2,0,2,1,1,12
+12,Mage (M),Sage (M),4,1,0,0,3,3,1,1,13
+13,Mage (F),Sage (F),3,1,1,0,3,3,1,1,13
+14,Monk,Bishop (M),3,2,1,0,3,2,1,1,13
+15,Cleric,Bishop (F),3,1,2,1,2,2,1,1,13
+16,Shaman (M),Druid (M),4,0,0,3,2,2,1,1,13
+17,Fighter,Warrior,3,1,2,0,3,3,2,1,15
+18,Bandit,Berserker,4,1,1,1,2,2,3,1,15
+19,Pirate,Berserker,4,1,1,1,2,2,3,1,15
+20,Pegasus Knight (F),Falcoknight,5,2,0,0,2,2,1,1,13
+21,Troubadour,Valkyrie,3,2,1,0,2,3,1,1,13
