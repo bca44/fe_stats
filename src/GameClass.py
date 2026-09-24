@@ -33,7 +33,7 @@ class Game:
             unit_base_df,
             unit_growths_df,
             on="name"
-        )
+        ).drop(columns=["Unnamed: 0_x", "Unnamed: 0_y"])
 
         self.class_df = pd.read_csv(
             f"data/class_growths/{prefix}_class_growths.csv"
@@ -53,3 +53,17 @@ class Game:
 
     def get_class(self, name):
         return self.classes[name]
+
+    def get_top_n(self, *by, n = 5, what = "hero", source = None, ascending = False):
+        by = list(by)
+
+        if what == "hero":
+            return self.hero_df.sort_values(by = by, ignore_index = True, ascending = ascending).head(n = n)
+        # returning part of a df is probs fine, but it would be nice to dress it all up somehow
+        
+        elif what == "class":
+            return self.class_df.sort_values(by = by, ignore_index = True, ascending = ascending).head(n = n)
+
+        else:
+            print("Search failed due to invalid parameters.")
+            return None
